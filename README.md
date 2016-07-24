@@ -2,25 +2,16 @@
 
 Miv is simple javascript game made with nodejs. Later, I will open a server to play among us.
 
-## Test
+## To test
 
 * Download the repository
-* On your terminal, run:
 
-```sh
-node server.js
-```
+* Use any local web server to view the index file (https://github.com/processing/p5.js/wiki/Local-server)
 
-* On your browser, go to:
+* And let me know how to improve it
 
-```sh
-localhost:8080
-```
-
-* Let me know what don't you like and/or how to improve it
-
-## Meta
+## Contact
 
 Leopoldo Brines - [@leopoldobrines7](https://twitter.com/leopoldobrines7) - leobrines@gmail.com
 
-Distributed under the Apache license.
+Distributed under the MIT license.

@@ -8,5 +8,7 @@ var boot = {
 		game.world.enableBody = true;
 
 		game.physics.startSystem(Phaser.Physics.ARCADE);
+
+		game.state.start('load');
 	}
 };

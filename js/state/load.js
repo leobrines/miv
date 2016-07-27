@@ -15,5 +15,6 @@ var load = {
 
 	create: function (){
 		this.loading.destroy();
+		game.state.start('menu');
 	}
 };

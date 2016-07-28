@@ -26,7 +26,7 @@ var menu = {
 	},
 
 	updateName: function (){
-		this.player.name = document.getElementById('inputName').value;
+		this.player.name = document.formName.elements[0].value;
 
 		document.formName.style.visibility = 'hidden';
 	}

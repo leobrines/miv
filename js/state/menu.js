@@ -22,7 +22,7 @@ var menu = {
 		if (!this.player.name)
 			return;
 
-		// game.state.start('play');
+		game.state.start('play');
 	},
 
 	updateName: function (){

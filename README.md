@@ -1,26 +1,32 @@
 # Miv
 
-Miv is simple **javascript game** made with nodejs. Later, I will open a server to play among us.
+Miv is simple **javascript game** made with nodejs. Later, I'll open a server to play among us.
 
 ### To test
 
-You need [nodejs](https://nodejs.org/en/) to test it
+You need [nodejs](https://nodejs.org/en/) to test it. Nodejs includes **node** and **npm** binaries 
 
 1. Download the repository
 
 2. Move to root path of the project
 
-3. Type in a terminal:
+3. Install dependencies:
+	
+	```sh
+	npm install
+	```
+
+4. Type in a terminal:
 
 	```sh
 	node server.js
 	```
 
-4. In a browser, go to "localhost:8080"
+5. In a browser, go to "localhost:5000"
 
-5. Test it
+6. Test it
 
-6. And let me know how to improve it
+7. And let me know how to improve it
 
 ### Contact
 

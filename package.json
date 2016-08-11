@@ -1,0 +1,29 @@
+{
+  "name": "miv",
+  "version": "1.0.0",
+  "description": "javascript shooting game",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopoldobrines7/miv.git"
+  },
+  "keywords": [
+    "shooting",
+    "game",
+    "miv"
+  ],
+  "author": "Leopoldo Brines",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leopoldobrines7/miv/issues"
+  },
+  "homepage": "https://github.com/leopoldobrines7/miv#readme"
+}
